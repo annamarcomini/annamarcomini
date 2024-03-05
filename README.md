@@ -1,4 +1,4 @@
-### Olá, eu sou a Anna! 👋
+ ### Olá, eu sou a Anna! 👋
 
 - 🔭 Atualmente trabalho ativamente com Front-End Web utilizando o framework React.JS
 - 🌱 Estou estudando Next.JS, variações do CSS, Node.JS, Typescript
@@ -15,7 +15,7 @@
   
 ##
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anna-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Anna-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
