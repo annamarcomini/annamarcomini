@@ -4,10 +4,11 @@
 - 🌱 Estou estudando Next.JS, variações do CSS, Node.JS, Typescript
 - 📫 Como me contatar via email: anajuliamarcomini23@gmail.com
 - 📚Idioma: Inglês avançado
+  
 
-  ```md
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annamarcomini&layout=compact)
-```
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
