@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho ativamente com Front-End Web utilizando o framework React.JS
 - 🌱 Estou estudando Next.JS, variações do CSS, Node.JS, Typescript
+- 📖 Faculdade de Análise de sistemas em andamento 2024-2026
 - 📫 Como me contatar via email: anajuliamarcomini23@gmail.com
 - 📚Idioma: Inglês avançado
   
