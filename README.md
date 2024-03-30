@@ -5,7 +5,7 @@
 - 📖 Faculdade de Análise de sistemas em andamento 2024-2026
 - 📫 Como me contatar via email: anajuliamarcomini23@gmail.com
 - 📚Idioma: Inglês avançado
-  
+    ##
 - 🔭 I currently work actively with Front-End Web using the React.JS framework
 - 🌱 I'm studying Next.JS, variations of CSS, Node.JS, Typescript
 - 📖 Studying Systems Analysis and Development college 2024-2026
