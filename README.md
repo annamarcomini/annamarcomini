@@ -1,10 +1,16 @@
- ### Olá, eu sou a Anna! 👋
+ ### Olá, eu sou a Anna!/ Hi, I'm Anna! 👋
 
 - 🔭 Atualmente trabalho ativamente com Front-End Web utilizando o framework React.JS
 - 🌱 Estou estudando Next.JS, variações do CSS, Node.JS, Typescript
 - 📖 Faculdade de Análise de sistemas em andamento 2024-2026
 - 📫 Como me contatar via email: anajuliamarcomini23@gmail.com
 - 📚Idioma: Inglês avançado
+ /
+- 🔭 I currently work actively with Front-End Web using the React.JS framework
+- 🌱 I'm studying Next.JS, variations of CSS, Node.JS, Typescript
+- 📖 Studying Systems Analysis and Development college 2024-2026
+- 📫 How to contact me, email: anajuliamarcomini23@gmail.com
+- 📚Language: Advanced English
   
 
   ##
